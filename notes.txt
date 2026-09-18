@@ -1,2 +1,5 @@
 Git Practice
 My first Git repository
+Employee Details
+Employee Name: Kunthavai
+Employee Code: EMP001
